@@ -3,9 +3,9 @@ Biblioteca RTTY no Arduino
 
 ####Testado com
 1. Arduino Nano
-..* Alto-falante 8ohm 0.25W ligado ao pino 8
-2. Biblioteca RTTY modificada
-3. decodificação com minimodem e fldigi no Debian
+  * Alto-falante 8ohm 0.25W ligado ao pino 8
+  * Biblioteca RTTY modificada
+2. decodificação com minimodem e fldigi no Debian
 
 para minimodem usar o comando
 ```
