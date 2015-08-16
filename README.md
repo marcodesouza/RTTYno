@@ -8,7 +8,7 @@ Biblioteca RTTY no Arduino
 - decodificação com minimodem
 
 ```
-minimodem --rx 50 --mark 2295 --space 2125 -8 
+minimodem --rx 50 --mark 2295 --space 2125 -8
 ```
 >**Links
 > -[RTTY Library for Arduino](http://www.timzaman.com/2011/04/radio-rtty-library-for-arduino/)
