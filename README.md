@@ -1,8 +1,8 @@
 # RTTYno
 Biblioteca RTTY no Arduino
 
-##Testado com
-###Arduino Nano
+###Testado com
+- Arduino Nano
 - Alto-falante 8ohm 0.25W ligado ao pino 8
 - Biblioteca RTTY modificada
 - decodificação com minimodem
