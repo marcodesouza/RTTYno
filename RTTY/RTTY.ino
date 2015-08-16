@@ -14,7 +14,7 @@ void setup()
  
 void loop()
 {
-  RTTY.tx(" \n");
+  RTTY.tx("\n");
   RTTY.tx(" Enviando dados por RTTY \n");
   RTTY.tx("  _ ___ __  \n");
   RTTY.tx(" | | __/ _| \n");
